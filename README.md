@@ -35,7 +35,7 @@ Este projeto consiste em um **formulário interativo** com validação de campos
 
 1. Clone o repositório:
    ```sh
-   git clone https://github.com/alanborgesdev/formulariocomvalidacao
+   git clone https://github.com/alanborgesdev/formulario-validacao
    ```
 2. Acesse a pasta do projeto:
    ```sh
